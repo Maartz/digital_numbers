@@ -28,3 +28,4 @@ iex(2)> DigitalNumbers.print("1")
 ```
 
 
+La documentation peut etre telecharger au format HTML ou ePub [ici](https://send.firefox.com/download/f0c01d959a8c0e26/#xLq4aWuK7hxXd-5bTdZUlg)
