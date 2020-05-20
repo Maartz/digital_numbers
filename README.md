@@ -15,6 +15,7 @@ Cloner le repo, se mettre a la racine et lancer la commande `mix test`
 ## Tester l'outil
 
 Cloner le repo, se mettre a la racine et lancer un shell interactif a l'aide de `iex -S mix`
+
 `iex` est le REPL propose par Elixir. On peut y charger un projet grace au flag `-S mix`.
 
 Une fois dans le REPL:
